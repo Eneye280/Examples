@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e24048f45bd025b49867e6bb1930b0ca
+timeCreated: 1513867930
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 35
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Athena of the Ocean
+  fontNames:
+  - Athena of the Ocean
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
