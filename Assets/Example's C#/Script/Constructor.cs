@@ -19,10 +19,7 @@ public class Constructor : MonoBehaviour
 		}
 	}
 
-	/// <summary>
-	/// Awake is called when the script instance is being loaded.
-	/// </summary>
-	void Awake()
+	private void Awake()
 	{
 		print("Awake");
 	}

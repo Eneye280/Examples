@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Example's C#/Escena/SceneLogin.unity
+    guid: 5c20d84b6a46de34489f58cec6f32df4
+  - enabled: 1
+    path: Assets/Example's C#/Escena/SceneGames.unity
+    guid: db4078329ee22cb4e926f4db2a6b18e1
+  - enabled: 1
+    path: Assets/Example's C#/Escena/SceneCalculation.unity
+    guid: fd61d9c3daed8d74496fa5dc60b205ee
